@@ -1,4 +1,5 @@
 import "./styles/Header.css"
+import "./styles/Footer.css"
 import Header from "./blocks/Header"
 import Footer from "./blocks/Footer";
 
