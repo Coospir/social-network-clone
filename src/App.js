@@ -1,11 +1,12 @@
-import './App.css';
-import Header from "./Header";
+import "./styles/Header.css"
+import Header from "./blocks/Header"
+import Footer from "./blocks/Footer";
 
 const App = () => {
   return (
-    <div className="App">
-      <h3 className="name">Social Network</h3>
-      <Header />
+    <div>
+      <Header/>
+      <Footer/>
     </div>
   );
 }
